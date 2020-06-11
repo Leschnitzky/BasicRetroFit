@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MoovitText</string>
+    <string name="button_text">Submit</string>
+    <string name="current_search_term">com.example.moovittext.SearchTerm</string>
+    <string name="polling_text">Stop Polling</string>
+    <string name="channel_name">notification_channel</string>
+</resources>
